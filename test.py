@@ -1,5 +1,5 @@
-def sum(a,b,f):
-    c=a+b+f
+def sum(a,b,e):
+    c=a+b+e
     return c
 
 print (sum(2,3))
